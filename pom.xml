@@ -150,6 +150,7 @@
         </plugins>
     </build>
     
+    <!-- adicionando dev -->
     <developers>
     	<developer>
     		<name>Nicholas Brito</name>
