@@ -149,5 +149,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name>Nicholas Brito</name>
+    		<email>nicholasgmbrito@gmail.com</email>
+    	</developer>
+    </developers>
 
 </project>
